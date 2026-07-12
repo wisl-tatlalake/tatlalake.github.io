@@ -23,15 +23,15 @@ minimal_mistakes_skin: "mint"
 # Search (Minimal Mistakes native, lunr). Off for a small advert site.
 search: false
 
-# Google Analytics (GA4). Minimal Mistakes injects gtag.js when a tracking_id is
-# set. The Measurement ID (G-XXXXXXXXXX) is NOT sensitive — it ships in client-side
-# JS, so it lives here, not in a secret. Comment out `analytics` to turn it off.
-# Replace the placeholder below with the real Measurement ID before going live.
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-XXXXXXXXXX"
-    anonymize_ip: true
+# Google Analytics (GA4). Minimal Mistakes injects gtag.js when this block is
+# present. The Measurement ID (G-XXXXXXXXXX) is NOT sensitive — it ships in
+# client-side JS, so it lives here, not in a secret. To enable analytics,
+# uncomment the block below and replace the ID with your real Measurement ID.
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-XXXXXXXXXX"
+#     anonymize_ip: true
 
 # Booking links — used by the hero buttons and CTAs. Replace with the real
 # Airbnb / VRBO listing URLs.
