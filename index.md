@@ -28,12 +28,14 @@ gallery:
   <a href="{{ site.booking.vrbo }}" class="btn btn--large">Book on VRBO</a>
 </p>
 
-## Your lakeside escape
+## Your West Chilcotin escape
 
-Tucked on the shore of Tatla Lake in British Columbia's West Chilcotin, this
-cottage is a quiet retreat for couples, families and small groups. Wake up to
-water views, spend the day on the lake or the trails, and gather around the
-wood stove come evening.
+Escape to British Columbia's West Chilcotin, where the days are yours to fill —
+cast a line, dip a paddle, or slip into a cool, crystal-clear lake. This
+beautiful log cabin looks out over a real working farm on the clear waters of
+Butler Creek, an invitation to slow down, breathe deep and get back to nature.
+Fall asleep to the crackle of the fire and the gentle babble of the brook, and
+wake refreshed — ready for another day of adventure, or simply for taking it easy.
 
 ### What's here
 
