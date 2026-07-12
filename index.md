@@ -40,20 +40,20 @@ wood stove come evening.
 <div class="feature__wrapper" style="border:0;">
 <div class="feature__item">
   <div class="archive__item-body">
-    <h2 class="archive__item-title"><i class="fas fa-fw fa-users"></i> Sleeps 6</h2>
-    <div class="archive__item-excerpt">Two bedrooms plus a sofa bed — comfortable for a family or two couples.</div>
+    <h2 class="archive__item-title"><i class="fas fa-fw fa-users"></i> Sleeps 4</h2>
+    <div class="archive__item-excerpt">Room for up to four guests — comfortable for a family or two couples.</div>
   </div>
 </div>
 <div class="feature__item">
   <div class="archive__item-body">
-    <h2 class="archive__item-title"><i class="fas fa-fw fa-water"></i> Lakefront</h2>
-    <div class="archive__item-excerpt">Private dock and shoreline — swim, paddle or cast a line right from the yard.</div>
+    <h2 class="archive__item-title"><i class="fas fa-fw fa-water"></i> Three lakes nearby</h2>
+    <div class="archive__item-excerpt">Close to three great lakes — Bluff, Horn and Sapeye — for fishing, swimming or paddling.</div>
   </div>
 </div>
 <div class="feature__item">
   <div class="archive__item-body">
-    <h2 class="archive__item-title"><i class="fas fa-fw fa-fire"></i> Wood stove</h2>
-    <div class="archive__item-excerpt">A warm, wood-heated main room for cool Chilcotin mornings and evenings.</div>
+    <h2 class="archive__item-title"><i class="fas fa-fw fa-fire"></i> Cozy heat</h2>
+    <div class="archive__item-excerpt">A cozy Blazeking wood stove plus electric baseboard heat for cool Chilcotin mornings and evenings.</div>
   </div>
 </div>
 </div>
@@ -67,14 +67,14 @@ wood stove come evening.
 </div>
 <div class="feature__item">
   <div class="archive__item-body">
-    <h2 class="archive__item-title"><i class="fas fa-fw fa-wifi"></i> Wi-Fi &amp; parking</h2>
-    <div class="archive__item-excerpt">Stay connected when you want to, with free on-site parking.</div>
+    <h2 class="archive__item-title"><i class="fas fa-fw fa-wifi"></i> Starlink &amp; parking</h2>
+    <div class="archive__item-excerpt">High-speed Starlink internet keeps you connected, with plenty of fenced, secure parking at the cottage.</div>
   </div>
 </div>
 <div class="feature__item">
   <div class="archive__item-body">
-    <h2 class="archive__item-title"><i class="fas fa-fw fa-dog"></i> Pet friendly</h2>
-    <div class="archive__item-excerpt">Well-behaved dogs are welcome — bring the whole family.</div>
+    <h2 class="archive__item-title"><i class="fas fa-fw fa-paw"></i> Pet friendly</h2>
+    <div class="archive__item-excerpt">Well-behaved pets are welcome — bring the whole family.</div>
   </div>
 </div>
 </div>
