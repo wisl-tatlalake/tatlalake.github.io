@@ -1,0 +1,13 @@
+# Local development only. Usage:
+#   docker compose up          # serve at http://localhost:4000 with live reload
+#   docker compose up --build  # rebuild the image after changing the Gemfile
+services:
+  site:
+    build: .
+    ports:
+      - "4000:4000"    # site
+      - "35729:35729"  # livereload
+    volumes:
+      # Mount the source for live editing. The named volume keeps the baked gem
+      # bundle from being shadowed and persists Jekyll's cache between runs.
+      - .:/srv/jekyll

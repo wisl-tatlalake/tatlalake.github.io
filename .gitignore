@@ -1,0 +1,13 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Bundler
+vendor/
+.bundle/
+
+# OS / editor
+.DS_Store
+*.swp

@@ -1,0 +1,92 @@
+# Site settings
+title: "Tatla Lake Cottage"
+subtitle: "A lakeside getaway in the West Chilcotin, BC"
+name: "Tatla Lake Cottage"
+description: >-
+  A cozy waterfront cottage in Tatla Lake, BC, available for short-term stays.
+  Book your West Chilcotin escape on Airbnb or VRBO.
+url: "https://tatlalake.ca"
+repository: "wisl-tatlalake/tatlalake.github.io"
+locale: "en-CA"
+
+# Current released version. Bumped automatically by release-please on each
+# release (do not edit by hand). The trailing annotation tells release-please
+# which value to update — leave it in place.
+version: 0.1.0 # x-release-please-version
+
+# Theme
+theme: minimal-mistakes-jekyll
+# Skin sets the accent palette. Options: default, air, aqua, contrast, dark,
+# dirt, mint, neon, plum, sunrise. "mint" suits a lake/nature feel; swap freely.
+minimal_mistakes_skin: "mint"
+
+# Search (Minimal Mistakes native, lunr). Off for a small advert site.
+search: false
+
+# Google Analytics (GA4). Minimal Mistakes injects gtag.js when a tracking_id is
+# set. The Measurement ID (G-XXXXXXXXXX) is NOT sensitive — it ships in client-side
+# JS, so it lives here, not in a secret. Comment out `analytics` to turn it off.
+# Replace the placeholder below with the real Measurement ID before going live.
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XXXXXXXXXX"
+    anonymize_ip: true
+
+# Booking links — used by the hero buttons and CTAs. Replace with the real
+# Airbnb / VRBO listing URLs.
+booking:
+  airbnb: "https://www.airbnb.ca/"
+  vrbo: "https://www.vrbo.com/"
+
+# Site-wide contact address (shown in the footer).
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:tatlalake@wisl.earth"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-minifier
+
+# Minify the built HTML, CSS and JS in production builds (JEKYLL_ENV=production).
+# JS minification uses uglifier (UglifyJS), which is ES5-only — keep any custom
+# site JavaScript ES5-compatible (var/function, no arrow functions) or the build
+# will fail. A JS runtime is required: CI's ubuntu runner has Node; the local
+# Docker image installs it (see Dockerfile).
+jekyll-minifier:
+  compress_javascript: true
+  compress_css: true
+  remove_comments: true
+
+# Collections / pages defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
+# Files Jekyll should not copy into the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .github
+  - README.md
+  - SECURITY.md
+  - LICENSE
+  - Dockerfile
+  - docker-compose.yml
+  - .dockerignore
+  - release-please-config.json

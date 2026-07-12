@@ -1,0 +1,12 @@
+# Top masthead navigation. `main` is the key Minimal Mistakes reads.
+main:
+  - title: "Home"
+    url: /
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Rates"
+    url: /rates/
+  - title: "Location"
+    url: /#location
+  - title: "Book Now"
+    url: /rates/#book
