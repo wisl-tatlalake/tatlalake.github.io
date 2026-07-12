@@ -50,6 +50,7 @@ footer:
 markdown: kramdown
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-minifier
 

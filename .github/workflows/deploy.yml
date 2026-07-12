@@ -41,12 +41,16 @@ jobs:
       # Validate the built site: internal links, images and scripts. External
       # sites (booking platforms, map embed) are NOT fetched (--disable-external)
       # so a flaky third party can't fail the deploy.
+      # --swap-urls strips the Pages baseurl prefix (present until the custom
+      # domain is active, when base_path becomes empty and the pattern no-ops)
+      # so links resolve against ./_site either way.
       - name: Check links (html-proofer)
         run: |
           bundle exec htmlproofer ./_site \
             --disable-external \
             --ignore-urls "/^(tel|mailto):/" \
-            --allow-hash-href
+            --allow-hash-href \
+            --swap-urls "^${{ steps.pages.outputs.base_path }}:"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
