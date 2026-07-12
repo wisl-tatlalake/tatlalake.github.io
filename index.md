@@ -97,21 +97,28 @@ availability and current pricing on the booking sites, or see the
 
 ## Location {#location}
 
-The cottage sits in **Tatla Lake, BC**, on Highway 20 roughly midway between
-Williams Lake and Bella Coola — gateway to the Chilcotin plateau, Ts'il?os
-Provincial Park and the Coast Mountains.
+The cottage is in the **Bluff Lake / Tatlayoko area near Tatla Lake, BC**, just
+off Highway 20 — roughly midway between Williams Lake and Bella Coola, in the
+heart of the West Chilcotin and gateway to the Coast Mountains.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;border-radius:8px;margin:1.5em 0;">
   <iframe
-    title="Map of Tatla Lake, BC"
-    src="https://www.openstreetmap.org/export/embed.html?bbox=-124.85%2C51.83%2C-124.35%2C52.03&amp;layer=mapnik&amp;marker=51.93%2C-124.60"
+    title="Map to the cottage"
+    src="https://maps.google.com/maps?q=Bluff+Lake,+British+Columbia&amp;z=13&amp;output=embed"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"
     allowfullscreen></iframe>
 </div>
 
-Exact directions and the door code are shared with guests after booking.
+### Getting here
+
+Turn off **Highway 20** onto **Tatlayoko Road** and drive about **4 km** to the
+turn-off for **Bluff Lake Road**, taking the **right-hand fork**. Continue about
+**14 km** — roughly 2 km past the **Horn Lake Recreation Site** on your left —
+and you'll arrive at the cottage.
+
+The exact door code is shared with guests after booking.
 
 ---
 
