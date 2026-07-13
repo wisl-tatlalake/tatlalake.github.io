@@ -39,13 +39,6 @@ booking:
   airbnb: "https://www.airbnb.ca/"
   vrbo: "https://www.vrbo.com/"
 
-# Site-wide contact address (shown in the footer).
-footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:tatlalake@wisl.earth"
-
 # Build settings
 markdown: kramdown
 plugins:
