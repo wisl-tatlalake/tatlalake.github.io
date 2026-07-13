@@ -105,8 +105,8 @@ heart of the West Chilcotin and gateway to the Coast Mountains.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;border-radius:8px;margin:1.5em 0;">
   <iframe
-    title="Map of the Bluff Lake area"
-    src="https://maps.google.com/maps?q=Bluff+Lake,+British+Columbia&amp;z=10&amp;output=embed"
+    title="Map of the West Chilcotin region, BC"
+    src="https://maps.google.com/maps?q=Bluff+Lake,+British+Columbia&amp;z=6&amp;output=embed"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"
