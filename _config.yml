@@ -12,7 +12,7 @@ locale: "en-CA"
 # Current released version. Bumped automatically by release-please on each
 # release (do not edit by hand). The trailing annotation tells release-please
 # which value to update — leave it in place.
-version: 0.1.0 # x-release-please-version
+version: 0.1.1 # x-release-please-version
 
 # Theme
 theme: minimal-mistakes-jekyll
