@@ -115,12 +115,16 @@ heart of the West Chilcotin and gateway to the Coast Mountains.
 
 ### Getting here
 
-Turn off **Highway 20** onto **Tatlayoko Road** and drive about **4 km** to the
-turn-off for **Bluff Lake Road**, taking the **right-hand fork**. Continue about
-**14 km** — roughly 2 km past the **Horn Lake Recreation Site** on your left —
-and you'll arrive at the cottage.
+The cottage is off **Highway 20** in the West Chilcotin — a scenic drive whether
+you're coming from the Cariboo or the coast:
 
-The exact door code is shared with guests after booking.
+- **From Williams Lake:** about **2 hours 45 minutes**
+- **From Vancouver:** about **9 hours 30 minutes**
+
+Detailed directions and the door code are shared with guests after booking.
+
+Please **drive carefully on Highway 20** — it's stunning country, with plenty of
+wildlife along the way.
 
 ---
 
